@@ -1,4 +1,13 @@
-### Hi there 👋
+### Welcome Everyone!
+
+I am a 2nd year computer science student at Carleton University. 
+
+Some of my favourite things to do are DJ, make pizza's, and learn new coding languages!
+
+Github might seem confusing at first, but I'll be guiding you on how to setup your first website using GitHub!
+
+If you want to see an example of the final project I wrote, check out the link below!
+https://gmacfire.github.io/portfolio/
 
 <!--
 **GavinMacNabb/gavinmacnabb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
