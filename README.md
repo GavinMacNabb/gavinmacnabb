@@ -7,6 +7,7 @@ Some of my favourite things to do are DJ, make pizza's, and learn new coding lan
 Github might seem confusing at first, but I'll be guiding you on how to setup your first website using GitHub!
 
 Once you write and commit your first .html file, you can view your website using ${username}
+https://GavinMacNabb.github.io/gavinmacnabb/
 
 If you want to see an example of the final project I wrote, check out the link below!
 https://gmacfire.github.io/portfolio/
